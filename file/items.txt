@@ -1,0 +1,4 @@
+3,Wired,2017,3,a,b,Rivista
+2,Wired,2016,4,a,b,Rivista
+1,Grand Prix,2010,-1,8889988124,Martin Walker,Libro
+0,Il cacciatore di aquiloni,2004,3,8889988123,Khaled Hosseini,Libro

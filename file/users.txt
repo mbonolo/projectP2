@@ -1,0 +1,4 @@
+4,marco,password,10,5,User,1992
+1,admin,admin,26,6,Admin,1995
+2,librarian,librarian,28,6,Librarian,1995
+3,user,user,30,6,User,1995
